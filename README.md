@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Mike-Leo-Smith&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Mike-Leo-Smith&show_icons=true&count_private=true)
 
 <!--
 **Mike-Leo-Smith/Mike-Leo-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
